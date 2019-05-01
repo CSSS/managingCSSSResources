@@ -4,6 +4,9 @@ These are instructions on how to transfer the ownership of google documents back
 
 >These only work with files that are created on the google drive and not files that were uploaded to google drive
 
+ 1. Right Click on the file you created and then click "Share"
 ![The One and Only, Lovable Wall-E](screenshot.29.jpg)
+ 1. Click "Advanced"
 ![The One and Only, Lovable Wall-E](screenshot.30.jpg)
+ 1. Scroll to wherever the sfucsss account is and change its permission to "Is owner"
 ![The One and Only, Lovable Wall-E](screenshot.31.jpg)
