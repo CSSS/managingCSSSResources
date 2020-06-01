@@ -20,4 +20,4 @@ If you already have the passbolt add-on configured due to already having been an
 ### Changing the passphrase
 While it is optional, it is recommended to change the passphrase when you first come into your position.  
 The instructions can be found at [this link](https://help.passbolt.com/faq/security/change-passphrase)  
-Please note that if you do so, you will need to share the new passphrase with the sys admin.
+Please note that if you do so, you will need to share the new passphrase and private key with the sys admin.
